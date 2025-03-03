@@ -955,7 +955,7 @@ body.nav-active { overflow: hidden; }
 
 .about .abs-img::before{z-index: -1;}
 
-.about .abs-img{
+.about .abs-img-1{
   bottom: -120px;
   left: 0;
   width: 150px;
